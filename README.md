@@ -4,6 +4,10 @@ Roman Solovev
 Igor Krasheninnikov
 Mariia Charikova
 ```
+Files:
+* `Lab2.sol` - marketplace implementation in Solidity. You can create, buy, transfer and check your tokens there. It is deployed at Ropsten - `0xcB72916261E86Abcb66b2c776B5cEa9BEF0ca8f7`
+* `lab2.html` - simple html+js frontend for the marketplace
+
 On this marketplace you can check available assets:  
 ![](https://i.imgur.com/dialTPx.png)  
 
